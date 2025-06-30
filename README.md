@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nico Mesa 👋
+# ¡Hola! Soy Nico Mesa
 
 Soy un desarrollador especializado en **Python**, **Odoo** y **React**, apasionado por crear soluciones prácticas y eficientes que mejoren la gestión empresarial y los flujos de trabajo.
 
